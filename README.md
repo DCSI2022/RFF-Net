@@ -1,7 +1,4 @@
-
-# ![image](https://github.com/user-attachments/assets/ef1d8a2e-9ca2-4d99-9c09-0c90a2e2b7aa)
-
-# CORD: Cooperative perception for 3D object detection with Retentive Networks
+# RFF-Net: Retentive Feature Fusion for Cooperative 3D Object Detection
 
 The code will be made publicly available upon publication of the paper. Below are selected experimental results from the manuscript, shown here for illustrative purposes only.
 
