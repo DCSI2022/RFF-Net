@@ -1,26 +1,34 @@
 
 # ![image](https://github.com/user-attachments/assets/ef1d8a2e-9ca2-4d99-9c09-0c90a2e2b7aa)
 
+# CORD: Cooperative perception for 3D object detection with Retentive Networks
+
 The code will be made publicly available upon publication of the paper. Below are selected experimental results from the manuscript, shown here for illustrative purposes only.
 
-<table>
-<tr>
-<td align="center">
-<video controls width="90%">
-    <source src="videos/v2v4real-bev-10m.mp4" type="video/mp4">
-</video>
-<br>
-<strong>图1: BEV视角演示</strong>
-</td>
-<td align="center">
-<video controls width="90%">
-    <source src="videos/v2v4real-sv-10m.mp4" type="video/mp4">
-</video>
-<br>
-<strong>图2: SV视角演示</strong>
-</td>
-</tr>
-</table>
+## Video Demonstrations
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <video controls width="100%">
+          <source src="./videos/v2v4real-bev-10m.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+        <br>
+        <strong>Fig.1: BEV View Demo</strong>
+      </td>
+      <td align="center">
+        <video controls width="100%">
+          <source src="./videos/v2v4real-sv-10m.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+        <br>
+        <strong>Fig.2: SV View Demo</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 https://github.com/user-attachments/assets/6231c0f2-eca1-4aa1-9f7d-b577d270f478
 
