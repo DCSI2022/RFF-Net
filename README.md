@@ -3,6 +3,24 @@
 
 The code will be made publicly available upon publication of the paper. Below are selected experimental results from the manuscript, shown here for illustrative purposes only.
 
+<table>
+<tr>
+<td align="center">
+<video controls width="90%">
+  <source src="videos/v2v4real-bev-10m.mp4" type="video/mp4">
+</video>
+<br>
+<strong>图1: BEV视角演示</strong>
+</td>
+<td align="center">
+<video controls width="90%">
+  <source src="videos/v2v4real-sv-10m.mp4" type="video/mp4">
+</video>
+<br>
+<strong>图1: SV视角演示</strong>
+</td>
+</tr>
+</table>
 
 https://github.com/user-attachments/assets/6231c0f2-eca1-4aa1-9f7d-b577d270f478
 
