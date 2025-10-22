@@ -7,17 +7,17 @@ The code will be made publicly available upon publication of the paper. Below ar
 <tr>
 <td align="center">
 <video controls width="90%">
-  <source src="videos/v2v4real-bev-10m.mp4" type="video/mp4">
+    <source src="videos/v2v4real-bev-10m.mp4" type="video/mp4">
 </video>
 <br>
 <strong>图1: BEV视角演示</strong>
 </td>
 <td align="center">
 <video controls width="90%">
-  <source src="videos/v2v4real-sv-10m.mp4" type="video/mp4">
+    <source src="videos/v2v4real-sv-10m.mp4" type="video/mp4">
 </video>
 <br>
-<strong>图1: SV视角演示</strong>
+<strong>图2: SV视角演示</strong>
 </td>
 </tr>
 </table>
