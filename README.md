@@ -8,12 +8,33 @@ The code will be made publicly available upon publication of the paper. Below ar
   <table>
     <tr>
       <td align="center">
-        <img src="./videos/v2v4real-bev-10m.gif" alt="BEV View Demo" width="100%">
+        <img src="./videos/v2v4real-bev-10m.gif" alt="BEV View Demo" style="max-width: 400px; max-height: 300px; width: auto; height: auto;">
+        <br>
+        <strong>Fig.1: BEV View Demo from V2V4Real</strong>
+      </td>
+      <td align="center">
+        <img src="./videos/v2v4real-sv-10m.gif" alt="SV View Demo" style="max-width: 400px; max-height: 300px; width: auto; height: auto;">
+        <br>
+        <strong>Fig.2: SV View Demo from V2V4Real</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="width: 50%;">
+        <div style="width: 400px; display: flex; justify-content: center;">
+          <img src="./videos/v2v4real-bev-10m.gif" alt="BEV View Demo" style="max-width: 100%; height: auto;">
+        </div>
         <br>
         <strong>Fig.1: BEV View Demo</strong>
       </td>
-      <td align="center">
-        <img src="./videos/v2v4real-sv-10m.gif" alt="SV View Demo" width="100%">
+      <td align="center" style="width: 50%;">
+        <div style="width: 400px; display: flex; justify-content: center;">
+          <img src="./videos/v2v4real-sv-10m.gif" alt="SV View Demo" style="max-width: 100%; height: auto;">
+        </div>
         <br>
         <strong>Fig.2: SV View Demo</strong>
       </td>
@@ -21,12 +42,12 @@ The code will be made publicly available upon publication of the paper. Below ar
   </table>
 </div>
 
-https://github.com/user-attachments/assets/6231c0f2-eca1-4aa1-9f7d-b577d270f478
-
-https://github.com/user-attachments/assets/2296601d-213f-4c69-a848-8ebf1478cdf1
-
+## Visualization of 3D object detection in a sample from V2Xset and V2V4Real
 
 ![image](https://github.com/user-attachments/assets/daaa897d-12ac-404b-a1a0-d55eebcc8b46)
+
+
+## Visualization of Fused Features on the V2Xset and V2V4Real
 
 ![image](https://github.com/user-attachments/assets/26bea46c-0308-40f5-9533-2bfa13baffc9)
 
