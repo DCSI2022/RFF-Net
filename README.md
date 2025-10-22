@@ -8,18 +8,12 @@ The code will be made publicly available upon publication of the paper. Below ar
   <table>
     <tr>
       <td align="center">
-        <video controls width="100%">
-          <source src="./videos/v2v4real-bev-10m.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
+        <img src="./videos/v2v4real-bev-10m.gif" alt="BEV View Demo" width="100%">
         <br>
         <strong>Fig.1: BEV View Demo</strong>
       </td>
       <td align="center">
-        <video controls width="100%">
-          <source src="./videos/v2v4real-sv-10m.mp4" type="video/mp4">
-          Your browser does not support the video tag.
-        </video>
+        <img src="./videos/v2v4real-sv-10m.gif" alt="SV View Demo" width="100%">
         <br>
         <strong>Fig.2: SV View Demo</strong>
       </td>
