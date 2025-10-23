@@ -57,5 +57,12 @@ The 3D bounding boxes in <span style="color:red;">red</span> and <span style="co
   <br>
 </div>
 
+## 📚 References
+
+[1] R. Xu, X. Xia, J. Li, H. Li, S. Zhang, Z. Tu, Z. Meng, H. Xiang, X. Dong, R. Song, H. Yu, B. Zhou, J. Ma. **V2V4Real: A Real-World Large-Scale Dataset for Vehicle-to-Vehicle Cooperative Perception**. In *2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, pp. 13712–13722. IEEE, Vancouver, BC, Canada, 2023.
+
+[2] R. Xu, Z. Tu, H. Xiang, W. Shao, B. Zhou, J. Ma. **CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers**. In *Proceedings of The 6th Conference on Robot Learning*, pp. 989-1000. PMLR, 2022.
+
+[3] R. Xu, H. Xiang, Z. Tu, X. Xia, M.-H. Yang, J. Ma. **V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer**. In *Computer Vision — ECCV 2022*, pp. 107-124. Springer Nature Switzerland, Cham, 2022.
 
 
