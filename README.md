@@ -46,14 +46,14 @@ The 3D bounding boxes in <span style="color:red;">red</span> and <span style="co
 ## Visualization of 3D object detection in a sample from V2Xset and V2V4Real
 
 <div align="center">
-  <img src="./videos/3d detection.png" alt="3D Detection Visualization" style="max-width: 80%; height: auto;">
+  <img src="./images/3d detection.png" alt="3D Detection Visualization" style="max-width: 80%; height: auto;">
   <br>
 </div>
 
 ## Visualization of Fused Features on the V2Xset and V2V4Real
 
 <div align="center">
-  <img src="./videos/fused feature.png" alt="3D Detection Visualization" style="max-width: 80%; height: auto;">
+  <img src="./images/fused feature.png" alt="3D Detection Visualization" style="max-width: 80%; height: auto;">
   <br>
 </div>
 
