@@ -44,17 +44,18 @@ The code will be made publicly available upon publication of the paper. Below ar
 
 ## Visualization of 3D object detection in a sample from V2Xset and V2V4Real
 
-![image](https://github.com/user-attachments/assets/daaa897d-12ac-404b-a1a0-d55eebcc8b46)
-
 <div align="center">
-  <img src="./videos/3d detection results.png" alt="3D Detection Visualization" style="max-width: 80%; height: auto;">
+  <img src="./videos/3d detection.png" alt="3D Detection Visualization" style="max-width: 80%; height: auto;">
   <br>
 </div>
 The 3D bounding boxes in <span style="color:red;">red</span> and <span style="color:green;">green</span> depict the prediction and the ground truth, respectively.
 
 ## Visualization of Fused Features on the V2Xset and V2V4Real
 
-![image](https://github.com/user-attachments/assets/26bea46c-0308-40f5-9533-2bfa13baffc9)
+<div align="center">
+  <img src="./videos/fused feature.png" alt="3D Detection Visualization" style="max-width: 80%; height: auto;">
+  <br>
+</div>
 
 
 
